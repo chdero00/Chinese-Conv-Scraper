@@ -4,7 +4,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 # 【請替換為您的 API Key】
-DEVELOPER_KEY = "AIzaSyCjj0V96TCZiui8JA94wZdJEBF3wEou4jU"
+DEVELOPER_KEY = ""
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
