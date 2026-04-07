@@ -1,4 +1,4 @@
-# Chinese-Dialogue-Scraper
+# Chinese-Conv-Scraper
 
 ## Project Overview
 This repository contains a high-performance data processing pipeline designed to construct a large-scale **Traditional Chinese Dimensional Sentiment Dialogue Dataset**. The tool focuses on extracting complex multi-turn conversations from social media platforms to support advanced Natural Language Processing (NLP) tasks, specifically in the field of Aspect-Based Sentiment Analysis (ABSA).
